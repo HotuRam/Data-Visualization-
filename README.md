@@ -1,3 +1,3 @@
 # Data-Visualization-
 
-I learn through the plots.
+I learned through the plots in this repo.
